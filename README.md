@@ -25,6 +25,7 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![CONTPAQi](https://img.shields.io/badge/CONTPAQi-0056A1?style=for-the-badge&labelColor=0A0A0A)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 
 
