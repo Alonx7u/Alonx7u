@@ -21,8 +21,11 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CONTPAQi](https://img.shields.io/badge/CONTPAQi-004080?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ---
 
