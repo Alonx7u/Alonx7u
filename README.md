@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Alondra
 
-💻 **Analista de datos en formación** | 📊 **Entusiasta de Linux y Ciberseguridad**  | 👩‍💻 **Programadora en crecimiento**
+💻 **Analista de datos en formación** | 📊 **Entusiasta de Linux y Ciberseguridad**  | 👩‍💻 **Programadora en crecimiento**.
+
 Apasionada por transformar datos en información útil y crear soluciones tecnológicas que aporten valor.  
 
 ---
