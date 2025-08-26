@@ -24,7 +24,7 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CONTPAQ<img src="assets/i.png" alt="Logo CONTPAQi" width="28" style="vertical-align: middle; margin-left: 5px;" />](https://img.shields.io/badge/CONTPAQi-0056A1?style=for-the-badge&labelColor=0A0A0A)
+![CONTPAQi](https://img.shields.io/badge/CONTPAQi-0056A1?style=for-the-badge&labelColor=0A0A0A)
 
 
 
