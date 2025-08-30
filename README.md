@@ -41,12 +41,12 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 
 ---
 
-## 📌 Proyectos Destacados
+<!--## 📌 Proyectos Destacados
 - 📊 [**Dashboard de métricas en SSRS**](https://github.com/Alonx7u/proyecto-ssrs) — Reportes interactivos para seguimiento de KPIs.  
 - 📂 [**Limpieza y análisis de datos en Python**](https://github.com/Alonx7u/data-cleaning) — Procesamiento y visualización de datasets.  
 - 🛡 [**Entorno de prácticas de ciberseguridad**](https://github.com/Alonx7u/lab-ciberseguridad) — Simulación de ataques y defensas en Linux.
 
----
+--- -->
 
 ## 📈 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonx7u&show_icons=true&theme=radical)  
@@ -56,7 +56,7 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 
 ## 📫 Contáctame
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alolopgom2109@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com)
+<!--[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com) -->
 
 ---
 
