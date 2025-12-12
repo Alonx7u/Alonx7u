@@ -48,17 +48,12 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 
 --- -->
 
-## 📈 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alonx7u&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonx7u&layout=compact&langs_count=10&theme=radical&v=2)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonx7u&hide=html,css&layout=compact&theme=radical)-->
-
 
 ---
 
 ## 📫 Contáctame
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alolopgom2109@gmail.com)
-<!--[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com) -->
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com) 
 
 ---
 
