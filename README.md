@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Alondra
 
-💻 **Analista de datos en formación** | 📊 **Entusiasta de Linux y Ciberseguridad**  | 👩‍💻 **Programadora en crecimiento**.
+ 👩‍💻 **Programadora en crecimiento**.
 
 Apasionada por transformar datos en información útil y crear soluciones tecnológicas que aporten valor.  
 
@@ -8,8 +8,7 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 
 ## 🚀 Sobre mí
 - 🎯 Enfocada en **análisis de datos** y **administración de sistemas**.
-- 🌱 Actualmente aprendiendo **Debian**, **Kali Linux** y prácticas de **ciberseguridad**.  
-- 🛠 Experiencia con **Python**, **SQL**, **Excel avanzado** y **JavaScript**.  
+- 🛠 Experiencia con **Python**, **SQL**, **Excel** y **JavaScript**.  
 - 📍 Desde la frontera sur de México.
 - ☕ Coffee lover de la tierra del café chiapaneco.   
 
