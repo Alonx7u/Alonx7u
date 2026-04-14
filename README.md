@@ -7,7 +7,7 @@ Apasionada por transformar datos en información útil y crear soluciones tecnol
 ---
 
 ## 🚀 Sobre mí
-- 🎯 Enfocada en **análisis de datos** y **administración de sistemas**.
+- 🎯 Enfocada en **análisis de datos**.
 - 🛠 Experiencia con **Python**, **SQL**, **Excel** y **JavaScript**.  
 - 📍 Desde la frontera sur de México.
 - ☕ Coffee lover de la tierra del café chiapaneco.   
